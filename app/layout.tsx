@@ -11,6 +11,18 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Raj Biryani | Best Biryani in Kathmandu",
   description: "Raj Biryani – serving authentic and delicious biryani in Kathmandu.",
+  keywords: [
+    "Raj Biryani",
+    "Biryani in Kathmandu",
+    "Best Biryani in Kathmandu",
+    "Chicken Biryani Kathmandu",
+    "Mutton Biryani Kathmandu",
+    "Biryani Restaurant Kathmandu",
+    "Kathmandu Biryani",
+    "Best Restaurant in Kathmandu"
+  ],
+
+  
   icons: {
     icon: [
       {
