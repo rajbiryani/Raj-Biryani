@@ -19,6 +19,8 @@ export default function Home() {
       description:
         "Fragrant basmati rice layered with tender, spiced marinated chicken, slow-cooked to perfection and served with refreshing raita.",
       price: "Rs 590",
+      Weight: Approx. 500 g,
+       Serving: Best for 1–2 persons,
       image: "/food/Chicken.jpg",
     },
     {
