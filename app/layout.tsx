@@ -10,7 +10,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: "Raj Biryani | Best Biryani in Kathmandu",
-  description: "POS System for Restaurants",
+  description: "Raj Biryani – serving authentic and delicious biryani in Kathmandu.",
   icons: {
     icon: [
       {
