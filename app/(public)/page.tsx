@@ -25,7 +25,7 @@ export default function Home() {
     },
     {
       id: 2,
-      name: "Royal Mutton Biryani",
+      name: "Royal Mutton Biryani 2 ",
       description:
         "Aromatic basmati rice layered with tender, slow-cooked mutton and rich spices, infused with deep flavors and served with refreshing raita..",
       price: "Rs 850",
