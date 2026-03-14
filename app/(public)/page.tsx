@@ -61,7 +61,7 @@ export default function Home() {
 
       {/* MENU SECTION */}
       <div className="px-6 mt-10">
-        <h3 className="text-sm font-bold uppercase tracking-[0.2em] text-black mb-6">
+       <h3 className="text-sm font-bold uppercase tracking-[0.2em] text-red-600 mb-6 text-center">
   Raj Biryani Menu
 </h3>
 
