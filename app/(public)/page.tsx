@@ -59,8 +59,10 @@ export default function Home() {
         </div>
       </div> */}
 
+    </div>
       {/* MENU SECTION */}
-     <div className="mb-6 text-center">
+  
+      <div className="mb-6 text-center">
   <h3 className="text-sm font-bold uppercase tracking-[0.2em] text-red-600">
     Our Menu
   </h3>
