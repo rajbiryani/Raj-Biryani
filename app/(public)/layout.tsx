@@ -123,7 +123,7 @@ export default function PublicLayout({
                   </span>
                 </a>
                 <a
-                  href="tel:9763681795"
+                  href="tel:9763681946"
                   className="flex flex-col items-center gap-3 p-4 rounded-3xl bg-zinc-50 border border-zinc-100"
                 >
                   <div className="w-12 h-12 bg-zinc-900 rounded-2xl flex items-center justify-center text-white">
