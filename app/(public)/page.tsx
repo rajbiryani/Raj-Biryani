@@ -61,9 +61,9 @@ export default function Home() {
 
       {/* MENU SECTION */}
       <div className="px-6 mt-10">
-        <h3 className="text-sm font-bold uppercase tracking-[0.2em] text-zinc-400 mb-6">
-          Our Menu
-        </h3>
+        <h3 className="text-sm font-bold uppercase tracking-[0.2em] text-black mb-6">
+  Raj Biryani Menu
+</h3>
 
         <div className="space-y-8">
           {menuItems.map((item) => {
