@@ -77,7 +77,7 @@ export default function CheckoutPage() {
 
     const message = `*RAJ BIRYANI - NEW ORDER*%0A--------------------------%0A*Customer:* ${form.name}%0A*Phone:* ${form.phone}%0A*Area:* ${address}%0A*Details:* ${form.details}${gpsLink}%0A--------------------------%0A*Total:* Rs ${cartTotal}%0A*Items:*%0A${orderItems}%0A--------------------------%0A_Please confirm my order!_`;
 
-    window.open(`https://wa.me/9763681795?text=${message}`, "_blank");
+    window.open(`https://wa.me/9763681946?text=${message}`, "_blank");
     
     clearCart();
     router.push('/');
