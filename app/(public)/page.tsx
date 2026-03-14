@@ -60,7 +60,7 @@ export default function Home() {
       </div> */}
 
       {/* MENU SECTION */}
-      <div className="mb-6 text-center">
+     <div className="mb-6 text-center">
   <h3 className="text-sm font-bold uppercase tracking-[0.2em] text-red-600">
     Our Menu
   </h3>
@@ -72,7 +72,7 @@ export default function Home() {
   >
     Call or WhatsApp: 9763681946
   </a>
-      </div>
+</div>
 
         <div className="space-y-8">
           {menuItems.map((item) => {
