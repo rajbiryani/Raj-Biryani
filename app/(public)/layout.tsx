@@ -64,16 +64,16 @@ export default function PublicLayout({
             </div>
           </button>
 
-         <Link href="/" className="relative w-20 h-16">
-  <Image
-    src="/Logo.jpeg"
-    alt="Raj Biryani"
-    fill
-    className="object-contain"
-    priority
-  />
-    </Link>
-          </div>
+        <Link href="/" className="relative w-20 h-16">
+        <Image
+        src="/Logo.jpeg"
+        alt="Raj Biryani"
+        fill
+        className="object-contain"
+        priority
+        />
+        </Link>
+        
         </nav>
 
         {/* --- LOCATION MODAL --- */}
