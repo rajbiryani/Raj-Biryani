@@ -63,6 +63,9 @@ export default function Home() {
       <div className="px-6 mt-10">
        <h3 className="text-sm font-bold uppercase tracking-[0.2em] text-red-600 mb-6 text-center">
   Raj Biryani Menu
+          <p className="text-[0.8rem] font-medium text-red-600 mt-1">
+    Call or WhatsApp: 9763681946
+  </p>
 </h3>
 
         <div className="space-y-8">
