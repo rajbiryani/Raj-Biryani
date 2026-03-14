@@ -73,7 +73,7 @@ export default function Home() {
     Call or WhatsApp: 9763681946
   </a>
 </div>
-
+    </div>
         <div className="space-y-8">
           {menuItems.map((item) => {
             // Check quantity safely after mounting
