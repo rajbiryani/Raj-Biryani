@@ -60,13 +60,19 @@ export default function Home() {
       </div> */}
 
       {/* MENU SECTION */}
-      <div className="px-6 mt-10">
-       <h3 className="text-sm font-bold uppercase tracking-[0.2em] text-red-600 mb-6 text-center">
-  Raj Biryani Menu
-          <p className="text-[0.8rem] font-medium text-red-600 mt-1">
+      <div className="mb-6 text-center">
+  <h3 className="text-sm font-bold uppercase tracking-[0.2em] text-red-600">
+    Our Menu
+  </h3>
+  <a
+    href="https://wa.me/9763681946"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="text-[0.7rem] text-red-600 font-medium mt-1 inline-block"
+  >
     Call or WhatsApp: 9763681946
-  </p>
-</h3>
+  </a>
+      </div>
 
         <div className="space-y-8">
           {menuItems.map((item) => {
