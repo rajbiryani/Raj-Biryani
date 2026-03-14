@@ -111,7 +111,7 @@ export default function PublicLayout({
               </div>
               <div className="grid grid-cols-2 gap-4">
                 <a
-                  href="https://wa.me/9763681795"
+                  href="https://wa.me/9763681946"
                   target="_blank"
                   className="flex flex-col items-center gap-3 p-4 rounded-3xl bg-emerald-50 border border-emerald-100"
                 >
