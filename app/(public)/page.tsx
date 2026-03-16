@@ -39,11 +39,10 @@ export default function Home() {
       price: "Rs 590",
       image: "/food/Panner.jpg",
     },
-        {
-      id: 4,
-      name: "Chicken Momo",
-      description:
-        "Fragrant basmati rice layered with soft, spiced paneer cubes and aromatic herbs, slow-cooked for rich flavor and served with refreshing raita.",
+    {
+      id:4,
+      name:"Chicken Momo",
+      description:"Fragrant basmati rice layered with soft, spiced paneer cubes and aromatic herbs,",
       price: "Rs 220",
       image: "/food/Panner.jpg",
     },
