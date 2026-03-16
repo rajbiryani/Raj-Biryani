@@ -66,7 +66,7 @@ export default function Home() {
         </div>
       </div> */}
 
-    </div>
+   
       {/* MENU SECTION */}
   
       <div className="mb-6 text-center">
@@ -157,5 +157,6 @@ export default function Home() {
         </div>
       </div>
     </div>
+     </div>
   );
 }
