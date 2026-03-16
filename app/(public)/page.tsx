@@ -19,8 +19,6 @@ export default function Home() {
       description:
         "Fragrant basmati rice layered with tender, spiced marinated chicken, slow-cooked to perfection and served with refreshing raita.",
       price: "Rs 590",
-      Weight: "Approx. 500 g",
-       Serving: "Best for 1–2 persons",
       image: "/food/Chicken.jpg",
     },
     {
@@ -37,13 +35,6 @@ export default function Home() {
       description:
         "Fragrant basmati rice layered with soft, spiced paneer cubes and aromatic herbs, slow-cooked for rich flavor and served with refreshing raita.",
       price: "Rs 590",
-      image: "/food/Panner.jpg",
-    },
-    {
-      id:4,
-      name:"Chicken Momo",
-      description:"Fragrant basmati rice layered with soft, spiced paneer cubes and aromatic herbs,",
-      price: "Rs 220",
       image: "/food/Panner.jpg",
     },
   ];
@@ -66,10 +57,9 @@ export default function Home() {
         </div>
       </div> */}
 
-   
       {/* MENU SECTION */}
-  
-      <div className="mb-6 text-center">
+      <div className="px-6 mt-10">
+        <div className="mb-6 text-center">
   <h3 className="text-sm font-bold uppercase tracking-[0.2em] text-red-600">
     Our Menu
   </h3>
@@ -82,6 +72,7 @@ export default function Home() {
     Call or WhatsApp: 9763681946
   </a>
 </div>
+
         <div className="space-y-8">
           {menuItems.map((item) => {
             // Check quantity safely after mounting
@@ -157,6 +148,5 @@ export default function Home() {
         </div>
       </div>
     </div>
-     </div>
   );
 }
