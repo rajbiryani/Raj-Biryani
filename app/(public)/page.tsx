@@ -135,7 +135,16 @@ export default function Home() {
       price: "Rs 325",
       image: "/food/chickenmomo.jpg",
     },
+
     
+    {
+      id: 14,
+      name: "Veggie Cheese Burger",
+      description:
+      "Fresh vegetable patty topped with  cheese, lettuce, mayonnaise sauce, served in a soft toasted bun.", 
+      price: "Rs 250",
+      image: "/food/chickenmomo.jpg",
+    },
     
     
   ];
