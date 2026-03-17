@@ -125,6 +125,17 @@ export default function Home() {
       price: "Rs 360",
       image: "/food/chickenmomo.jpg",
     },
+
+
+    {
+      id: 13,
+      name: "Crunchy Cheesy Chicken Burger",
+      description:
+      "Crispy fried chicken fillet topped with cheese and fresh lettuce, served in a soft toasted bun. ", 
+      price: "Rs 325",
+      image: "/food/chickenmomo.jpg",
+    },
+    
     
     
   ];
