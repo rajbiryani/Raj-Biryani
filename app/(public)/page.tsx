@@ -41,7 +41,7 @@ export default function Home() {
       id: 4,
       name: "Chicken Momo",
       description:
-        "Fragrant basmati rice layered with soft, spiced paneer cubes and aromatic herbs, slow-cooked for rich flavor and served with refreshing raita.",
+        "Juicy minced chicken wrapped in soft, delicate dumplings, seasoned with aromatic spices and steamed to perfection for a rich, savory flavor—served hot with tangy dipping sauce.",
       price: "Rs 220",
       image: "/food/Panner.jpg",
     },
