@@ -76,9 +76,17 @@ export default function Home() {
       price: "Rs 180",
       image: "/food/chickenmomo.jpg",
     },
+
+    {
+      id: 8,
+      name: "Veg Fried Momo",
+      description:
+      "Crispy dumplings filled with fresh vegetables and spices, deep-fried to golden perfection. ", 
+      price: "Rs 230",
+      image: "/food/chickenmomo.jpg",
+    },
   
-  
-  
+    
   ];
 
   return (
