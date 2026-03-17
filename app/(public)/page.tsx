@@ -43,7 +43,7 @@ export default function Home() {
       description:
         "Juicy minced chicken wrapped in soft, delicate dumplings, seasoned with aromatic spices and steamed to perfection for a rich, savory flavor—served hot with tangy dipping sauce.",
       price: "Rs 220",
-      image: "/food/Panner.jpg",
+      image: "/food/chickenmomo.jpg",
     },
   ];
 
