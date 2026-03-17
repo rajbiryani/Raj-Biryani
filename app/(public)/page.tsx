@@ -56,6 +56,17 @@ export default function Home() {
       price: "Rs 270",
       image: "/food/chickenmomo.jpg",
     },
+
+
+     {
+      id: 6,
+      name: "Chicken Chilly Momo",
+      description:
+      "Steamed or fried dumplings tossed in a spicy, tangy chili sauce with tender chicken filling. ", 
+      price: "Rs 300",
+      image: "/food/chickenmomo.jpg",
+    },
+  
   
   ];
 
