@@ -39,10 +39,11 @@ export default function Home() {
     },
         {
       id: 4,
-      name: "Chicken Momo",
+      name: "Chicken Steam Momo",
       description:
-        "Juicy minced chicken wrapped in soft, delicate dumplings, seasoned with aromatic spices and steamed to perfection for a rich, savory flavor—served hot with tangy dipping sauce.",
+      "Soft dumplings filled with spiced chicken, steamed to perfection.", 
       price: "Rs 220",
+      Serving: "Best for 1–2 persons",
       image: "/food/chickenmomo.jpg",
     },
   ];
