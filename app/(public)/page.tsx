@@ -66,6 +66,17 @@ export default function Home() {
       price: "Rs 300",
       image: "/food/chickenmomo.jpg",
     },
+
+
+        {
+      id: 7,
+      name: "Veg. Steam Momo",
+      description:
+      "Soft dumplings stuffed with fresh, spiced vegetables, steamed to perfection. ", 
+      price: "Rs 180",
+      image: "/food/chickenmomo.jpg",
+    },
+  
   
   
   ];
