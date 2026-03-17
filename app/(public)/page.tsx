@@ -46,6 +46,17 @@ export default function Home() {
       Serving: "Best for 1–2 persons",
       image: "/food/chickenmomo.jpg",
     },
+ 
+  
+  {
+      id: 5,
+      name: "Chicken Fried Momo",
+      description:
+      "Soft Crispy dumplings filled with spiced chicken, deep-fried to golden perfection. ", 
+      price: "Rs 270",
+      image: "/food/chickenmomo.jpg",
+    },
+  
   ];
 
   return (
