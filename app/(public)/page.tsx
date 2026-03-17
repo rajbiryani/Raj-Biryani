@@ -105,6 +105,26 @@ export default function Home() {
       price: "Rs 320",
       image: "/food/chickenmomo.jpg",
     },
+
+
+        {
+      id: 11,
+      name: "Classic Chicken Cheese Burger",
+      description:
+      "Juicy grilled chicken patty topped with  cheese, fresh lettuce, mayonnaise  sauce, served in a soft toasted bun.", 
+      price: "Rs 295",
+      image: "/food/chickenmomo.jpg",
+    },
+    
+
+      {
+      id: 12,
+      name: "Crunchy Spicy Cheesy Chicken Burger",
+      description:
+      "Crispy fried chicken fillet with spicy sauce,  cheese, and fresh lettuce in a soft toasted bun.", 
+      price: "Rs 360",
+      image: "/food/chickenmomo.jpg",
+    },
     
     
   ];
