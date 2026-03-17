@@ -85,7 +85,17 @@ export default function Home() {
       price: "Rs 230",
       image: "/food/chickenmomo.jpg",
     },
+
+      {
+      id: 9,
+      name: "Paneer Steam Momo",
+      description:
+      "Soft dumplings stuffed with spiced paneer, steamed to perfection.", 
+      price: "Rs 300",
+      image: "/food/chickenmomo.jpg",
+    },
   
+    
     
   ];
 
