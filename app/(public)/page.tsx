@@ -94,7 +94,17 @@ export default function Home() {
       price: "Rs 300",
       image: "/food/chickenmomo.jpg",
     },
-  
+
+
+    
+      {
+      id: 10,
+      name: "Paneer Fried Momo",
+      description:
+      "Crispy dumplings stuffed with spiced paneer, deep-fried to golden perfection. ", 
+      price: "Rs 320",
+      image: "/food/chickenmomo.jpg",
+    },
     
     
   ];
