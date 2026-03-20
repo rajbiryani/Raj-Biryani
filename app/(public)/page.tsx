@@ -173,7 +173,7 @@ export default function Home() {
       name: "Aalu Paratha",
       description:
       "Soft, flaky flatbread stuffed with spiced mashed potatoes, served hot.", 
-      price: "Rs 275",
+      price: "Rs 220",
       image: "/food/chickenmomo.jpg",
     },
 
@@ -235,15 +235,6 @@ export default function Home() {
       image: "/food/chickenmomo.jpg",
     },
 
-    {
-      id: 24,
-      name: "Plain Rice",
-      description:
-      "Steamed long-grain rice, fluffy and perfect as a side or base for curries.", 
-      price: "Rs 190",
-      image: "/food/chickenmomo.jpg",
-    },
-
 
  {
       id: 26,
@@ -253,7 +244,6 @@ export default function Home() {
       price: "Rs 300",
       image: "/food/chickenmomo.jpg",
     },
-
 
      {
       id: 27,
