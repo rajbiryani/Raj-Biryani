@@ -196,6 +196,103 @@ export default function Home() {
       price: "Rs 275",
       image: "/food/chickenmomo.jpg",
     },
+
+
+       {
+      id: 20,
+      name: "Veg Fry Rice",
+      description:
+      "Stir-fried long-grain rice with fresh vegetables and light soy-based seasoning.", 
+      price: "Rs 280",
+      image: "/food/chickenmomo.jpg",
+    },
+
+     {
+      id: 21,
+      name: "Mixed Fry Rice",
+      description:
+      "Stir-fried long-grain rice with a mix of vegetables and chicken, lightly seasoned for a flavorful taste.", 
+      price: "Rs 350",
+      image: "/food/chickenmomo.jpg",
+    },
+
+
+     {
+      id: 22,
+      name: "Chicken Fry Rice",
+      description:
+      "Stir-fried long-grain rice with tender chicken pieces, fresh vegetables, and light seasoning.", 
+      price: "Rs 330",
+      image: "/food/chickenmomo.jpg",
+    },
+
+    {
+      id: 23,
+      name: "Plain Rice",
+      description:
+      "Steamed long-grain rice, fluffy and perfect as a side or base for curries.", 
+      price: "Rs 190",
+      image: "/food/chickenmomo.jpg",
+    },
+
+    {
+      id: 24,
+      name: "Plain Rice",
+      description:
+      "Steamed long-grain rice, fluffy and perfect as a side or base for curries.", 
+      price: "Rs 190",
+      image: "/food/chickenmomo.jpg",
+    },
+
+
+ {
+      id: 26,
+      name: "Aalu Curry",
+      description:
+      "Tender potatoes cooked in a rich, aromatic curry with traditional spices.", 
+      price: "Rs 300",
+      image: "/food/chickenmomo.jpg",
+    },
+
+
+     {
+      id: 27,
+      name: "Veg Curry",
+      description:
+      "Tender potatoes cooked in a rich, aromatic curry with traditional spices.", 
+      price: "Rs 300",
+      image: "/food/chickenmomo.jpg",
+    },
+
+
+ {
+      id: 28,
+      name: "Egg Curry",
+      description:
+      "Boiled eggs simmered in a rich and aromatic spiced gravy.", 
+      price: "Rs 300",
+      image: "/food/chickenmomo.jpg",
+    },
+
+
+{
+      id: 29,
+      name: "Paneer Curry",
+      description:
+      "Soft paneer cubes cooked in a rich and creamy spiced gravy.", 
+      price: "Rs 300",
+      image: "/food/chickenmomo.jpg",
+    },
+
+
+    {
+      id: 30,
+      name: "Chicken Curry",
+      description:
+      "Tender chicken pieces cooked in a rich, aromatic spiced gravy.", 
+      price: "Rs 550",
+      image: "/food/chickenmomo.jpg",
+    },
     
   ];
 
