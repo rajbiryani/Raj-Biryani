@@ -145,7 +145,16 @@ export default function Home() {
       price: "Rs 250",
       image: "/food/chickenmomo.jpg",
     },
-    
+
+
+        {
+      id: 15,
+      name: "Chicken Keema Noodles",
+      description:
+      "Stir-fried noodles tossed with spiced minced chicken, fresh vegetables, and aromatic sauces.", 
+      price: "Rs 295",
+      image: "/food/chickenmomo.jpg",
+    },
     
   ];
 
