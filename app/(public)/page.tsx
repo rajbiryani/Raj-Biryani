@@ -44,7 +44,7 @@ export default function Home() {
       "Soft dumplings filled with spiced chicken, steamed to perfection.", 
       price: "Rs 220",
       Serving: "Best for 1–2 persons",
-      image: "/food/chickenmomo.jpg",
+      image: "/food/chicken-steam-momo.jpg",
     },
  
   
@@ -54,7 +54,7 @@ export default function Home() {
       description:
       "Soft Crispy dumplings filled with spiced chicken, deep-fried to golden perfection. ", 
       price: "Rs 270",
-      image: "/food/chickenmomo.jpg",
+      image: "/food/chicken-fried-momo.jpg",
     },
 
 
@@ -64,7 +64,7 @@ export default function Home() {
       description:
       "Steamed or fried dumplings tossed in a spicy, tangy chili sauce with tender chicken filling. ", 
       price: "Rs 300",
-      image: "/food/chickenmomo.jpg",
+      image: "/food/chicken-chilly-momo.jpg",
     },
 
 
@@ -74,7 +74,7 @@ export default function Home() {
       description:
       "Soft dumplings stuffed with fresh, spiced vegetables, steamed to perfection. ", 
       price: "Rs 180",
-      image: "/food/chickenmomo.jpg",
+      image: "/food/veg-steam-momo.jpg",
     },
 
     {
@@ -83,7 +83,7 @@ export default function Home() {
       description:
       "Crispy dumplings filled with fresh vegetables and spices, deep-fried to golden perfection. ", 
       price: "Rs 230",
-      image: "/food/chickenmomo.jpg",
+      image: "/food/veg-fried-momo.jpg",
     },
 
       {
@@ -92,7 +92,7 @@ export default function Home() {
       description:
       "Soft dumplings stuffed with spiced paneer, steamed to perfection.", 
       price: "Rs 300",
-      image: "/food/chickenmomo.jpg",
+      image: "/food/paneer-steam-momo.jpg",
     },
 
 
@@ -103,7 +103,7 @@ export default function Home() {
       description:
       "Crispy dumplings stuffed with spiced paneer, deep-fried to golden perfection. ", 
       price: "Rs 320",
-      image: "/food/chickenmomo.jpg",
+      image: "/food/paneer-friend-momo.jpg",
     },
 
 
@@ -113,7 +113,7 @@ export default function Home() {
       description:
       "Juicy grilled chicken patty topped with  cheese, fresh lettuce, mayonnaise  sauce, served in a soft toasted bun.", 
       price: "Rs 295",
-      image: "/food/chickenmomo.jpg",
+      image: "/food/classic-chicken-cheese-burger.jpg",
     },
     
 
@@ -123,7 +123,7 @@ export default function Home() {
       description:
       "Crispy fried chicken fillet with spicy sauce,  cheese, and fresh lettuce in a soft toasted bun.", 
       price: "Rs 360",
-      image: "/food/chickenmomo.jpg",
+      image: "/food/crunchy-spicy-cheesy-chicken-burger.jpg",
     },
 
 
@@ -133,7 +133,7 @@ export default function Home() {
       description:
       "Crispy fried chicken fillet topped with cheese and fresh lettuce, served in a soft toasted bun. ", 
       price: "Rs 325",
-      image: "/food/chickenmomo.jpg",
+      image: "/food/crunchy-cheesy-chicken-burger.jpg",
     },
 
     
@@ -143,7 +143,7 @@ export default function Home() {
       description:
       "Fresh vegetable patty topped with  cheese, lettuce, mayonnaise sauce, served in a soft toasted bun.", 
       price: "Rs 250",
-      image: "/food/chickenmomo.jpg",
+      image: "/food/veggie-cheese-burger.jpg",
     },
 
 
@@ -153,7 +153,7 @@ export default function Home() {
       description:
       "Stir-fried noodles tossed with spiced minced chicken, fresh vegetables, and aromatic sauces.", 
       price: "Rs 295",
-      image: "/food/chickenmomo.jpg",
+      image: "/food/chicken-keema-noodles.jpg",
     },
 
 
@@ -163,7 +163,7 @@ export default function Home() {
       description:
       "Stir-fried noodles tossed with spiced minced vegetables and aromatic sauces.", 
       price: "Rs 275",
-      image: "/food/chickenmomo.jpg",
+      image: "/food/veg-keema-noodles.jpg",
     },
 
 
@@ -174,7 +174,7 @@ export default function Home() {
       description:
       "Soft, flaky flatbread stuffed with spiced mashed potatoes, served hot.", 
       price: "Rs 220",
-      image: "/food/chickenmomo.jpg",
+      image: "/food/aalu-paratha.jpg",
     },
 
 
@@ -184,7 +184,7 @@ export default function Home() {
       description:
       "Soft, flaky flatbread stuffed with spiced minced chicken.", 
       price: "Rs 275",
-      image: "/food/chickenmomo.jpg",
+      image: "/food/chicken-keema-paratha.jpg",
     },
 
 
@@ -194,7 +194,7 @@ export default function Home() {
       description:
       "Soft, flaky flatbread stuffed with spiced minced chicken.", 
       price: "Rs 275",
-      image: "/food/chickenmomo.jpg",
+      image: "/food/chicken-keema-paratha.jpg",
     },
 
 
@@ -204,7 +204,7 @@ export default function Home() {
       description:
       "Stir-fried long-grain rice with fresh vegetables and light soy-based seasoning.", 
       price: "Rs 280",
-      image: "/food/chickenmomo.jpg",
+      image: "/food/veg-fry-rice.jpg",
     },
 
      {
@@ -213,7 +213,7 @@ export default function Home() {
       description:
       "Stir-fried long-grain rice with a mix of vegetables and chicken, lightly seasoned for a flavorful taste.", 
       price: "Rs 350",
-      image: "/food/chickenmomo.jpg",
+      image: "/food/mixed-fry-rice.jpg",
     },
 
 
@@ -223,7 +223,7 @@ export default function Home() {
       description:
       "Stir-fried long-grain rice with tender chicken pieces, fresh vegetables, and light seasoning.", 
       price: "Rs 330",
-      image: "/food/chickenmomo.jpg",
+      image: "/food/chicken-fry-rice.jpg",
     },
 
     {
@@ -232,7 +232,7 @@ export default function Home() {
       description:
       "Steamed long-grain rice, fluffy and perfect as a side or base for curries.", 
       price: "Rs 190",
-      image: "/food/chickenmomo.jpg",
+      image: "/food/plain-rice.jpg",
     },
 
 
