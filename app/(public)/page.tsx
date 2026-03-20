@@ -155,6 +155,16 @@ export default function Home() {
       price: "Rs 295",
       image: "/food/chickenmomo.jpg",
     },
+
+
+    {
+      id: 16,
+      name: "Veg Keema Noodles",
+      description:
+      "Stir-fried noodles tossed with spiced minced vegetables and aromatic sauces.", 
+      price: "Rs 275",
+      image: "/food/chickenmomo.jpg",
+    },
     
   ];
 
