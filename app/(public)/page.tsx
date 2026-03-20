@@ -242,7 +242,7 @@ export default function Home() {
       description:
       "Tender potatoes cooked in a rich, aromatic curry with traditional spices.", 
       price: "Rs 300",
-      image: "/food/chickenmomo.jpg",
+      image: "/food/aalu-curry.jpg",
     },
 
      {
