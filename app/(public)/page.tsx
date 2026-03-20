@@ -83,7 +83,7 @@ export default function Home() {
       description:
       "Crispy dumplings filled with fresh vegetables and spices, deep-fried to golden perfection. ", 
       price: "Rs 230",
-      image: "/food/veg-fried-momo.jpg",
+      image: "/food/Veg Fried Momo.jpg",
     },
 
       {
