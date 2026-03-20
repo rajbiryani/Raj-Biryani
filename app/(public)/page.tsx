@@ -165,6 +165,37 @@ export default function Home() {
       price: "Rs 275",
       image: "/food/chickenmomo.jpg",
     },
+
+
+    
+    {
+      id: 17,
+      name: "Aalu Paratha",
+      description:
+      "Soft, flaky flatbread stuffed with spiced mashed potatoes, served hot.", 
+      price: "Rs 275",
+      image: "/food/chickenmomo.jpg",
+    },
+
+
+      {
+      id: 18,
+      name: "Chicken Keema Paratha",
+      description:
+      "Soft, flaky flatbread stuffed with spiced minced chicken.", 
+      price: "Rs 275",
+      image: "/food/chickenmomo.jpg",
+    },
+
+
+    {
+      id: 19,
+      name: "Chicken Keema Paratha",
+      description:
+      "Soft, flaky flatbread stuffed with spiced minced chicken.", 
+      price: "Rs 275",
+      image: "/food/chickenmomo.jpg",
+    },
     
   ];
 
