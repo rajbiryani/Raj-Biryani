@@ -178,14 +178,6 @@ export default function Home() {
     },
 
 
-      {
-      id: 18,
-      name: "Chicken Keema Paratha",
-      description:
-      "Soft, flaky flatbread stuffed with spiced minced chicken.", 
-      price: "Rs 275",
-      image: "/food/chicken-keema-paratha.jpg",
-    },
 
 
     {
