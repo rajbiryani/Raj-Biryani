@@ -259,9 +259,9 @@ export default function Home() {
       id: 27,
       name: "Veg Curry",
       description:
-      "Tender potatoes cooked in a rich, aromatic curry with traditional spices.", 
-      price: "Rs 300",
-      image: "/food/chickenmomo.jpg",
+      "Fresh seasonal vegetables cooked in a flavorful, aromatic curry with traditional spices.", 
+      price: "Rs 350",
+      image: "/food/veg-curry.jpg",
     },
 
 
@@ -270,8 +270,8 @@ export default function Home() {
       name: "Egg Curry",
       description:
       "Boiled eggs simmered in a rich and aromatic spiced gravy.", 
-      price: "Rs 300",
-      image: "/food/chickenmomo.jpg",
+      price: "Rs 450",
+      image: "/food/egg-curry.jpg",
     },
 
 
@@ -280,8 +280,8 @@ export default function Home() {
       name: "Paneer Curry",
       description:
       "Soft paneer cubes cooked in a rich and creamy spiced gravy.", 
-      price: "Rs 300",
-      image: "/food/chickenmomo.jpg",
+      price: "Rs 550",
+      image: "/food/paneer-curry.jpg",
     },
 
 
@@ -291,7 +291,7 @@ export default function Home() {
       description:
       "Tender chicken pieces cooked in a rich, aromatic spiced gravy.", 
       price: "Rs 550",
-      image: "/food/chickenmomo.jpg",
+      image: "/food/chicken-curry.jpg",
     },
     
   ];
