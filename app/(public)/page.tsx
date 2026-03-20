@@ -103,7 +103,7 @@ export default function Home() {
       description:
       "Crispy dumplings stuffed with spiced paneer, deep-fried to golden perfection. ", 
       price: "Rs 320",
-      image: "/food/paneer-friend-momo.jpg",
+      image: "/food/paneer-fried-momo.jpg",
     },
 
 
