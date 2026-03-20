@@ -193,7 +193,7 @@ export default function Home() {
       description:
       "Stir-fried long-grain rice with a mix of vegetables and chicken, lightly seasoned for a flavorful taste.", 
       price: "Rs 350",
-      image: "/food/mixed-fry-rice.jpg",
+      image: "/food/mixed_fry_rice.jpg",
     },
 
 
@@ -212,7 +212,7 @@ export default function Home() {
       description:
       "Steamed long-grain rice, fluffy and perfect as a side or base for curries.", 
       price: "Rs 190",
-      image: "/food/plain-rice.jpg",
+      image: "/food/plain_rice.jpg",
     },
 
 
